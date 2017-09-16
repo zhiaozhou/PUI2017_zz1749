@@ -8,4 +8,4 @@
 - Save them in my .bashrc so that every time I open a new terminal it will run them defaultly (screenshot below)
 
 ![Alt text](screenShots/setup_env.png)
-![Alt text](screenShots/zhiaozhou.png)
+![Alt text](screenShots/zhiaozhou_bash.png)
