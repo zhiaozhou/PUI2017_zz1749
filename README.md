@@ -1,5 +1,7 @@
 # PUI2017_zz1749
- -Hello Zhi'ao! This is Hongkai visiting your repo.
+
+## This is Zhiao Zhou's repository containing all of the assignments or projects for NYU CUSP Principles of Urban Informatics 2017
+## You could find here how I set up this environment and each homework in the corresponding folder
 
 ### HOW I SET UP MY ENVIRONMENT
 - Created a directory on my workspace on CUSP compute called PUI2017
