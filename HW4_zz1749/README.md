@@ -9,6 +9,7 @@ See the file CitibikeReview_cc1749.md
 
 ## Assignment 2
 
+In this assignment, I worked with Chenrui Zhang and Hongkai He and I was in charge of the MANOVA test.
 
 | **Statistical Analyses | IV(s) | IV type(s)  |DV(s)  | DV type(s) | Control Var  | Control Var type | Question to be answered | _H0_ | alpha | link to paper ** |
 | ------ |:--------:| -----:| ------:| ------:| ------:| ------:| ------:| ------:| ------:| ------:|
