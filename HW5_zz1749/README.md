@@ -22,3 +22,5 @@
 - Investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
 
 - I searched the Internet for manual of WLS test, studentized errors and hat-values (Leverage) calculation.
+
+- I want to thank Te Du for helping me with the weights setting
