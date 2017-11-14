@@ -2,3 +2,4 @@
 ## Basically I made a plot of relationships between Site EUI and CO2 emissions for residential buildings using LL84 2016 datasets as belows
 
 ![Alt text](plot.png)
+## Figure. associations between Site EUI and CO2 emissions for residential buildings in NYC
