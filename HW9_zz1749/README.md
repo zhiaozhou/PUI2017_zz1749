@@ -5,3 +5,6 @@ Reviews were performed for:
 
 2. Du,Te, td928, [**td928**](https://github.com/td928/PUI2017_td928)
 
+### Assignment #2
+- All done by myself
+- Followed Dr. Bianco's instruction
