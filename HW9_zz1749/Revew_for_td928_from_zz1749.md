@@ -15,5 +15,9 @@ The colors are chosen appropiately which help me to focus on the right elements.
 He indicates that the plot might show some aspects of the hospitalization discharge rate is not influenced by the taxi trips. However, the discharge rate is a complicated thing that could be affected by various factors regarding either epidemiology or demographics so the influence couldn't be so easily spotted by a simple linear regression. I think a model with controlled variables would be better.
 
 # FBB good
-also: move the fit equation so that it does not overlap the points, and angle it to be parallel to the line fit for clarity
+also: 
 
+**clarity** angle it to be parallel to the line fit for clarity
+**esthetics** move the fit equation so that it does not overlap the points, and  - why is the resolution of the plot so low? 
+
+10/10
